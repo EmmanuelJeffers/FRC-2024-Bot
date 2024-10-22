@@ -128,7 +128,7 @@ public final class Constants {
   public static final class IndexerConstants {
     public static final int MOTOR_ID = 15;
     public static final double SPEED = 0.9;
-    public static final double FEED_SPEED = 0.75;
+    public static final double FEED_SPEED = 0.9;
     public static final double SHOT_RPM = 6000;
     public static final double IDLE_RPM = 1000;
     public static final double kP = 0.0004;
@@ -142,7 +142,7 @@ public final class Constants {
   public static final class ShooterConstants {
     public static final int RIGHT_MOTOR_ID = 8;
     public static final double SPEED = 1.0;
-    public static final double TRAP_SHOOTER_SPEED = 0.5;
+    public static final double TRAP_SHOOTER_SPEED = 0.85;
     public static final int LEFT_MOTOR_ID = 9;
     public static final int INDEX_MOTOR_ID = 15;
     public static final double SHOT_RPM = 6000;
